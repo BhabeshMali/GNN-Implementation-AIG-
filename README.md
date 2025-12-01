@@ -1,1 +1,1 @@
-# GNN-Implementation-AIG-
+# GNN-Implementation-AIG
